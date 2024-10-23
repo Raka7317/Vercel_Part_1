@@ -118,10 +118,6 @@ This project is a Vercel-like platform built using **System Design principles**,
 
 Contributions are welcome! Feel free to submit pull requests or open issues for feature requests and bug fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 This README should give users and developers a clear understanding of the project, its features, setup, and future goals. Let me know if you'd like to customize any part of it further!
